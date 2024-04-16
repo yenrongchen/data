@@ -1,4 +1,4 @@
-,Store,ProductID,Client,UnitPrice,Quantity
+Order,Store,Product,Client,UnitPrice,Quantity
 1,A,103,1,15,72
 2,A,102,13,11,1
 3,B,104,16,10,64
